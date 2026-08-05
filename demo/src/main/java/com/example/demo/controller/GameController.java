@@ -24,7 +24,6 @@ public class GameController {
     }
 
     // ==========================
-    // READ
     // แสดงรายการเกมทั้งหมด
     // GET /games
     // ==========================
@@ -37,7 +36,6 @@ public class GameController {
     }
 
     // ==========================
-    // CREATE
     // หน้าเพิ่มเกม
     // GET /games/add
     // ==========================
@@ -50,7 +48,6 @@ public class GameController {
     }
 
     // ==========================
-    // CREATE
     // บันทึกเกมใหม่
     // POST /games/save
     // ==========================
@@ -68,7 +65,6 @@ public class GameController {
     }
 
     // ==========================
-    // UPDATE
     // หน้าแก้ไข
     // GET /games/edit/{id}
     // ==========================
@@ -105,7 +101,6 @@ public class GameController {
     }
 
     // ==========================
-    // DELETE
     // หน้ายืนยันการลบ
     // GET /games/delete/{id}
     // ==========================
@@ -125,8 +120,7 @@ public class GameController {
     }
 
     // ==========================
-    // DELETE
-    // ลบจริง
+    // ลบ
     // POST /games/delete/{id}
     // ==========================
     @PostMapping("/delete/{id}")
