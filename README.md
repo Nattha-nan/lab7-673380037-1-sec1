@@ -1,7 +1,8 @@
 # lab7-673380037-1-sec1
 Lab7_spring_Database
 
-<<<<<<< HEAD
+นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 1
+
 # 🎮 Lab 7: Database Connectivity — Game Catalog CRUD
 
 **วิชา:** CP353002 Principles of Software Design  
