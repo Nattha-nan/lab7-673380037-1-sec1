@@ -1,6 +1,7 @@
 # lab7-673380037-1-sec1
 Lab7_spring_Database
 
+<<<<<<< HEAD
 # 🎮 Lab 7: Database Connectivity — Game Catalog CRUD
 
 **วิชา:** CP353002 Principles of Software Design  
@@ -273,3 +274,6 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 
 
+=======
+นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 1
+>>>>>>> 34f265e271715aa6c1601bc493606896ad009d53
