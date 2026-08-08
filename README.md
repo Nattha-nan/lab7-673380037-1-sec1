@@ -273,8 +273,3 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 > **หมายเหตุ:** นักศึกษาสามารถปรับแต่งหน้าเว็บเพิ่มเติมได้ตามต้องการ แต่ฟังก์ชัน CRUD และหลักการออกแบบต้องถูกต้องตามหลักการ Principles of Software Design
 
-
-
-=======
-นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 1
->>>>>>> 34f265e271715aa6c1601bc493606896ad009d53
